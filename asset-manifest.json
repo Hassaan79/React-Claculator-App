@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.a886865b.css",
-    "main.js": "/static/js/main.e6ab206b.js",
-    "index.html": "/index.html",
-    "main.a886865b.css.map": "/static/css/main.a886865b.css.map",
-    "main.e6ab206b.js.map": "/static/js/main.e6ab206b.js.map"
+    "main.css": "/React-Claculator-App/static/css/main.a886865b.css",
+    "main.js": "/React-Claculator-App/static/js/main.e6ab206b.js",
+    "index.html": "/React-Claculator-App/index.html",
+    "main.a886865b.css.map": "/React-Claculator-App/static/css/main.a886865b.css.map",
+    "main.e6ab206b.js.map": "/React-Claculator-App/static/js/main.e6ab206b.js.map"
   },
   "entrypoints": [
     "static/css/main.a886865b.css",
